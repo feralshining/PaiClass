@@ -1,0 +1,6 @@
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\bin\Release\PaiClass.dll
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\bin\Release\PaiClass.pdb
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\obj\Release\PaiClass.csproj.CoreCompileInputs.cache
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\obj\Release\PaiClass.dll
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\obj\Release\PaiClass.pdb
+C:\Users\s4chd\source\repos\PaiClass\PaiClass\obj\Release\PaiClass.csproj.AssemblyReference.cache
